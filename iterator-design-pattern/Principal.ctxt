@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=zoo\ ai
+comment0.target=void\ listarAnimais(ZooImpl,\ AnimalIterator)
+comment1.params=zoo\ si
+comment1.target=void\ listarSelvagem(ZooImpl,\ SelvagemIterator)
+comment2.params=zoo\ di
+comment2.target=void\ listarDomestico(ZooImpl,\ DomesticoIterator)
+numComments=3

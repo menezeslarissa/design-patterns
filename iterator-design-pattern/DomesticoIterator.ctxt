@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DomesticoIterator
+comment1.params=zoo
+comment1.target=DomesticoIterator(Zoo)
+comment2.params=
+comment2.target=boolean\ hasNext()
+comment3.params=
+comment3.target=Animal\ next()
+numComments=4

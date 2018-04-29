@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ EClasse\ animal\ possui\ nome\ e\ tipo.\r\n\ \r\n\ @author\ Larissa\ Menezes\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ tipo
+comment1.target=Animal(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+numComments=6
