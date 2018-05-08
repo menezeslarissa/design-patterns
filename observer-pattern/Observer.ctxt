@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Observer
+comment0.text=\n\ Interface\ Observer\ apenas\ com\ o\ m\u00E9todo\ de\ atualizar\n\ \n\ @author\ larissa\ menezes\n\ @version\ 1.0\n
+comment1.params=disponibilidade
+comment1.target=void\ update(java.lang.String)
+numComments=2

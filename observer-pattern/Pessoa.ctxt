@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\n\ Classe\ pessoa\ (observadores)\n\ \n\ @author\ larissa\ menezes\n\ @version\ 1.0\n
+comment1.params=nome
+comment1.target=Pessoa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=disponibilidade
+comment4.target=void\ update(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

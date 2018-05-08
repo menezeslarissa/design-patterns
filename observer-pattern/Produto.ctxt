@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=nome\ tipo\ disponibilidade
+comment1.target=Produto(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ notificarObservers()
+comment11.params=observer
+comment11.target=void\ registrarObserver(Observer)
+comment12.params=observer
+comment12.target=void\ removerObserver(Observer)
+comment2.params=
+comment2.target=java.util.ArrayList\ getObservers()
+comment3.params=observers
+comment3.target=void\ setObservers(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTipo()
+comment7.params=tipo
+comment7.target=void\ setTipo(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDisponibilidade()
+comment9.params=disponibilidade
+comment9.target=void\ setDisponibilidade(java.lang.String)
+numComments=13
