@@ -1,2 +1,7 @@
 # Implementações dos Padrões de projeto GOF em Java
-<a href="https://github.com/menezeslarissa/design-patterns/tree/master/iterator-design-pattern">Iterator</a>
+<ul>
+  <li><a href="https://github.com/menezeslarissa/design-patterns/tree/master/iterator-design-pattern">Iterator</a></li>
+  <a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/observer-pattern">Observer</a></li>
+  <a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/prototype-design-pattern">Prototype</a></li>
+  <a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/strategy-design-pattern">Strategy</a></li>
+ </ul>
