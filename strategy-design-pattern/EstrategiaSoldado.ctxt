@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EstrategiaSoldado
+comment0.text=\r\nInterface\ strategy\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ da\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=void\ executar()
+numComments=2

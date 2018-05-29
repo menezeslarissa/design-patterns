@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Soldado
+comment0.text=\r\n\ Classe\ Context\ -\ Soldado\r\n\ \r\n\ @author\ larissa\ menezes\ \r\n\ @version\ \r\n
+comment1.params=estrategia
+comment1.target=Soldado(EstrategiaSoldado)
+comment2.params=estrategia
+comment2.target=void\ mudarEstrategia(EstrategiaSoldado)
+comment3.params=
+comment3.target=void\ combater()
+numComments=4
