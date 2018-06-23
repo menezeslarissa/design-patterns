@@ -5,5 +5,6 @@
   <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/prototype-design-pattern">Prototype</a></li>
   <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/strategy-design-pattern">Strategy</a></li>  
   <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/adapter-design-patterns">Adapter</a></li>
-    <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/strategy-design-pattern">Strategy</a></li>
+    <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/command-design-pattern">Command</a></li>
+  <li><a href="<a href="https://github.com/menezeslarissa/design-patterns/tree/master/command-design-pattern">Command</a></li>
  </ul>
