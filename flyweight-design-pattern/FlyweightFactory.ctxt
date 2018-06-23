@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FlyweightFactory()
+comment1.params=nivel
+comment1.target=SoldadoFlyweight\ getFlyweight(java.lang.String)
+numComments=2

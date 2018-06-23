@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nivel
+comment0.target=Soldado(java.lang.String)
+comment1.params=x\ y
+comment1.target=void\ mover(int,\ int)
+numComments=2

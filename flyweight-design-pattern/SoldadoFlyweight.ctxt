@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SoldadoFlyweight
+comment0.text=\r\n\ Interface\ Flyweight\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ da\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=posX\ posY
+comment1.target=void\ mover(int,\ int)
+comment1.text=\r\n\ Move\ soldado\ para\ nova\ posi\u00E7\u00E3o\ \r\n\ Posi\u00E7\u00E3o\ do\ soldado\ \u00E9\ estado\ extr\u00EDnsexo\r\n
+numComments=2
