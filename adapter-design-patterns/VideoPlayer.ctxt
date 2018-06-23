@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=VideoPlayer
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ VideoPlayer\ aqui.\r\n\ \r\n\ @author\ larissa\ menezes\ \r\n\ @version\ 1.0\r\n
+comment1.params=nome\ formato
+comment1.target=void\ reproduzir(java.lang.String,\ java.lang.String)
+numComments=2
