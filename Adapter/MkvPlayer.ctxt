@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=MkvPlayer
-comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ MkvPlayer\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
-comment1.params=nome
-comment1.target=void\ playRmvb(java.lang.String)
-comment2.params=nome
-comment2.target=void\ playMkv(java.lang.String)
-numComments=3
